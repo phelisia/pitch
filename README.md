@@ -14,26 +14,29 @@ Update Profile
 As a user of the web application you will be able to:
 
 View pitches based on categories
+
 Sign up and log in
-Receive welcome mail
+
 Add a pitch based on category
+
 Comment on a pitch and view other comments
-Edit user profile: View all your posted pitches; Update bio and profile image
-Getting started
+
+
+## Development server
 Prerequisites
-python3.6
+python3
 virtual environment
 pip
-Clone the repository and cd to Pitch
+Clone
 
 Running the App
-Create a virtual environment $ python3.6 -m venv --without-pip virtual
+Create a virtual environment $ python3 -m venv --without-pip virtual
 
-Activate the virtual environment using $ source virtual/bin/activate
+Activate the virtual environment using $ source venv/bin/activate
 
 Download pip in our environment using $ curl https://bootstrap.pypa.io/get-pip.py | python
 
-Install all the dependencies from the requirements.txt file by running python3.6 pip install -r requirements.txt
+Install all the dependencies from the requirements.txt file by running python3 pip install -r requirements.txt
 
 Add a secret_key, mail_username and mail_password to your environment. In a folder named instance, file named config.py
 
