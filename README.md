@@ -53,11 +53,7 @@ Start the app using: $ ./start.sh
 
 In the config.py choose which mode to run your app(use development or test at first)
 
-Testing the Application
-To run the tests for the class file:
-
-  $ python3.6 manage.py test
-Technologies Used
+## Technologies Used
 Python3.6
 Flask
 Developed by
