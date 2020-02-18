@@ -10,7 +10,7 @@ Log in and Sign up
 Welcome Mail
 Create pitch
 Update Profile
-User Stories
+## User Stories
 As a user of the web application you will be able to:
 
 View pitches based on categories
