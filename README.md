@@ -7,7 +7,6 @@ This is an app that shows diffrent pitches posted by diffrent users
 
 ## Features
 Log in and Sign up
-Welcome Mail
 Create pitch
 Update Profile
 ## User Stories
