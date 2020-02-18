@@ -1,4 +1,5 @@
-## Pitch
+## App name
+pitch
 ## Author
 phelisia jeruto
 ## Description
