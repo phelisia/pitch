@@ -58,7 +58,7 @@ Start the app using: $ ./start.sh
 In the config.py choose which mode to run your app(use development or test at first)
 
 ## Technologies Used
-Python3.6
+Python3
 Flask
 
 
