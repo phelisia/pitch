@@ -28,7 +28,7 @@ virtual environment
 pip
 Clone
 
-Running the App
+## Running the App
 Create a virtual environment $ python3 -m venv --without-pip virtual
 
 Activate the virtual environment using $ source venv/bin/activate
@@ -56,8 +56,7 @@ In the config.py choose which mode to run your app(use development or test at fi
 ## Technologies Used
 Python3.6
 Flask
-Developed by
-Mutugi Mutuma
+
 
 ## License
 MIT License MIT License
