@@ -1,8 +1,8 @@
-##Pitch
+## Pitch
 ## Author
 phelisia jeruto
 ## Description
-This is a python flask crud web app that allows a user to sign up and post, view and provide feedback on various pitches that are posted by other users
+This is an app that shows diffrent pitches posted by diffrent users
 
 
 ## Features
