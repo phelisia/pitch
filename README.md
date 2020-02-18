@@ -8,7 +8,7 @@ This is an app that shows diffrent pitches posted by diffrent users
 ## Features
 Log in and Sign up
 Create pitch
-Update Profile
+
 ## User Stories
 As a user of the web application you will be able to:
 
