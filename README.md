@@ -23,9 +23,13 @@ Comment on a pitch and view other comments
 
 ## Development server
 Prerequisites
+
 python3
+
 virtual environment
+
 pip
+
 Clone
 
 ## Running the App
