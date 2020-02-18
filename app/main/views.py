@@ -13,7 +13,7 @@ def index():
     """
 
     all_category = PitchCategory.get_categories()
-    #all_pitches = Pitch.get_pitches
+    # all_pitches = Pitch.get_pitches
     
     title = '   PITCH IT'
     return render_template('index.html', title = title, categories=all_category)
