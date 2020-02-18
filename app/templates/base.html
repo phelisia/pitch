@@ -1,0 +1,20 @@
+{% extends 'bootstrap/base.html' %}
+
+<!-- Navbar block  --> 
+{% block navbar %}
+    {% include 'navbar.html' %}
+{% endblock %}
+
+{% block styles %}
+<link rel="stylesheet" href="{{url_for('static',filename='css/stylessr.css')}}">
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+<style>
+        body{
+          background-image:url('https://images.pexels.com/photos/34586/pexels-photo.jpg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940');
+          background-size: cover;
+          background-repeat:no-repeat;
+        
+        }
+      </style>
+{% endblock %}
+
